@@ -1,6 +1,4 @@
-# learning-journal
-
-## 102-Learning Journal
+# Learning Journal
 
 **Hi, my name is Ashley.**
 
@@ -20,5 +18,5 @@ My kids learn growth mindset at school and we use the word "yet" often at home. 
 - Table of Contents for my learning journal.
 
 Table of Contents
-- [Mark Down Examples from Class One - 102](/MarkDownExamples.md)
+- [Class 01 - Learning Markdown](/01-learning-markdown.md)
 
