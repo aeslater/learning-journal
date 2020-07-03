@@ -15,8 +15,6 @@ My kids learn growth mindset at school and we use the word "yet" often at home. 
 
 > *Not **yet**.*
 
-- Table of Contents for my learning journal.
-
 Table of Contents
 - [Class 01 - Learning Markdown](/01-learning-markdown.md)
 
