@@ -17,4 +17,5 @@ My kids learn growth mindset at school and we use the word "yet" often at home. 
 
 Table of Contents
 - [Class 01 - Learning Markdown](/01-learning-markdown.md)
+- [Class 02 - The Coder's Computer](/02-coder's-computer.md)
 
