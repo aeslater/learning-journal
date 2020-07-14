@@ -17,6 +17,7 @@
       (e.g. for home directory /home/ashley, /home/ashley/Documents can be represented by ~/Documents)
    * . (dot) Reference to current directory ./Documents
    * .. (dotdot) Reference to parent directory (ls ../../ for listing of root directory /home/ashley)
+   * mkdir Make Directory, creates a new directory
 
 ## Choosing a Text Editor
 There are three basic types of text editors that can be used to create code - basic text editor already installed on most computers, third party text editors, and integrated development environments (IDE). 
