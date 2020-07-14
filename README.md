@@ -2,7 +2,7 @@
 
 **Hi, my name is Ashley.**
 
-A growth mindset is believing that I can learn and choosing to learn.
+A growth mindset is believing that I can learn and choosing to learn. :+1:
 
 Three things I can remember to keep myself in a growth mindset:
 
