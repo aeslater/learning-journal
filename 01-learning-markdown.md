@@ -36,5 +36,6 @@ Ordered list:
 ### Additional resources:
  * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
  * [Github's Writing with Markdown](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+ * [Github Flavored Markdown Spec](https://github.github.com/gfm/)
  * [Wikipedia's Markdown page](https://en.wikipedia.org/wiki/Markdown#Example)
   
