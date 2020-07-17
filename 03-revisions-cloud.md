@@ -1,6 +1,8 @@
 [Home](/README.md)]
 
+### Learning Journal Notes
 # Revisions and the Cloud
+---
 
 ## Git (version control) vs. Github (online code storage)
 
