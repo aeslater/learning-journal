@@ -68,3 +68,13 @@ Linux is an extensionless system - .exe, .txt, .doc - it ignores the extension a
 Linux is case sensitive (remember for file names, commands, etc.!) Spaces in file names are allowed but in command lines can use quotes (‘Holiday Photos’, treats anything inside quotes as single item) or escape character backslash (Holiday\ Photos, escapes special meaning of next character).
 
 Hidden files and directories begin with a . (full stop). To hide/unhide just rename the file to add/remove the . To list hidden files use command line option -a.
+
+### File Systems
+This is an exerpt from the [201 prework guide](https://codefellows.github.io/code-201-prework/prework/windows/02_WSL_Ubuntu_setup.html).
+
+Ubuntu can read and write both Ubuntu and Windows files, Windows can only read and write Windows files, and read Ubuntu Files, but it cannot write Ubuntu files. Knowing which files belong to which file system (FS) is important because of this.
+
+You should see something like /mnt/c/Users/windowsusername
+
+From this point on every time you close and re-open your Ubuntu terminal you will be starting in your Windows root. This is where you will be working.
+
