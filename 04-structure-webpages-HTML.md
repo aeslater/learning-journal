@@ -2,7 +2,8 @@
 ## Learning Journal Notes
 # Structure Web Pages with HTML
 ---
-## Duckett’s HTML & CSS Chapter 18 – Process & Design
+## Duckett’s HTML & CSS 
+### Chapter 18 – Process & Design
 Website designers need to design website for the target audience, not yourself or the site owner. Invent some fictional visitors – can include name, gender, age, location, occupation, income, web use – to think about how the website will be used.
 
 The target audience could have a variety of motivations and goals for visiting a website, including entertainment, researching a topic, product information, contact information, and many more. 
@@ -11,11 +12,11 @@ A site map is a diagram that shows how a website will be structured. The card so
 A wireframe is a simple sketch of the sections of a page, showing hierarchy of information and how much space each section requires. 
 
 Visual hierarchy draws attention to key messages first, differentiating using size, color, and style.
-## Duckett’s HTML & CSS Chapter 1 – Structure
+### Chapter 1 – Structure
 This was an overview of HTML pages, tags, and attributes.
-## Duckett’s HTML & CSS Chapter 17 – HTML5 Layout
+### Chapter 17 – HTML5 Layout
 HTML5 elements indicate the purpose of different parts of the webpage and are clearer to read than HTML which used multiple `<div>` commands. Examples of new HTML5 elements include `<header>`, `<nav>`, `<article>`, and `<aside>` (previously `<div id=”header”>`, `<div id=”nav”>`, `<div id=”article”>`, and `<div id=”sidebar”>`). Older web browsers (IE9 and older) require a workaround line of JavaScript to display the HTML5 code properly.
-## Duckett’s HTML & CSS, Chapter 8 – Extra Markup
+### Chapter 8 – Extra Markup
 For HTML5, the very first thing in a document is `<!DOCTYPE html>`; other versions of HTML have different document type declarations.
 
 To make comments in HTML use `<!--  comment here -->`. Comment regularly, for others and for yourself when you come back to it later.
