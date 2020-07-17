@@ -23,10 +23,14 @@
 ## Choosing a Text Editor
 There are three basic types of text editors that can be used to create code - basic text editor already installed on most computers, third party text editors, and integrated development environments (IDE). 
 
-### Basic text editor, comes with computer (Text Edit, Notepad, Gedit, etc.) 
+### Basic text editor, comes with computer 
+(Such as Text Edit, Notepad, Gedit, etc.) 
+
 Basic / bare-bones editors are just that, basic text editors with no special features.
 
-### Third party text editors (Such as Notepad ++, Text Wrangler, Visual Studio Code, Atom, Brackets, Sublime Text)
+### Third party text editors 
+(Such as Notepad ++, Text Wrangler, Visual Studio Code, Atom, Brackets, Sublime Text)
+
 These text editors come with many or all of the following handy features to make text editing faster and easier:
    1. Code completion
    2. Syntax highlighting
@@ -35,7 +39,9 @@ These text editors come with many or all of the following handy features to make
    5. Live preview
    6. Online community
 
-### Integrated Development Environment (IDE) (Atom, VIM, Sublime Text, Emacs, Komodo Edit)
+### Integrated Development Environment (IDE) 
+(Such as Atom, VIM, Sublime Text, Emacs, Komodo Edit)
+
 Software suite containing text editor, file manager, compiler, debugger. Think of an IDE like Microsoft Office that contains Word, Excel, Outlook, Project, and others that all work together.
 
 ## Getting Started Using the Terminal
