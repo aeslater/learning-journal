@@ -1,6 +1,7 @@
 [Home](README.md)
 ### Learning Journal Notes
 # The Coder's Computer
+---
 
 ## Cheat Sheet for basic terminal usage
    * ls = list contents of current directory

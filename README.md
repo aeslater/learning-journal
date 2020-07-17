@@ -2,7 +2,7 @@
 
 **Hi, my name is Ashley.**
 
-This is my DeltaV Code 102 Learning Journal.
+This is my DeltaV Code 102 Learning Journal. Check out the pages below to see what I have been learning in each class. 
 
 
 Table of Contents
