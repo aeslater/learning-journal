@@ -10,4 +10,5 @@ Table of Contents
 - [Class 01 - Learning Markdown](/01-learning-markdown.md)
 - [Class 02 - The Coder's Computer](/02-coder's-computer.md)
 - [Class 03 - Revisions and the Cloud](/03-revisions-cloud.md)
+- [Class 04 - Structure Webpages with HTML](/04-structure-webpages-HTML.md)
 
