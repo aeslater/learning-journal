@@ -64,9 +64,11 @@ Try my [CSS Web Design Quiz](/class05quiz.md)!
 
 [Contrast checker tool](www.snook.ca/technical/colour_contrast/colour.html)
 
-[Color picking tool](colorschemedesigner.com)
+[Adobe's Create Color Wheel](color.adobe.com/create/color-wheel/)
 
-[Mozilla CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+[ColorHunt Color Palettes](https://colorhunt.co/)
+
+[Mozilla CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics/)
 
 [Web Accessibility Evaluation Tool](https://wave.webaim.org/)
 
