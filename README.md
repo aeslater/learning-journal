@@ -13,3 +13,7 @@ Table of Contents
 - [Class 04 - Structure Webpages with HTML](/04-structure-webpages-HTML.md)
 - [Class 05 - Design Webpages with CSS](/05-design-webpages-CSS.md)
 - [Class 05 - Try My CSS Quiz!](/CSS-quiz.md)
+- [Class 06 - Computure Architecture and Logic](/06-computer-architecture-logic.md)
+- [Class 06 - Dynamic Webpages with JavaScript](/06-dynamic-webpages-JS.md)
+- [Class 07 - Programming with JavaScript](/07-programming-JS.md)
+- [Class 08 - Operators and Loops](/08-operators-loops.md)
